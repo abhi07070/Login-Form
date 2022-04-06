@@ -83,10 +83,10 @@ body {
     background-color: #02c8bd;
     /* border: 2px solid #02c8bd; */
     /* background-color: transparent; */
-    -webkit-tap-highlight-color: transparent;
     box-shadow: 3px 3px 8px #b1b1b1,
         -3px -3px 8px #fff;
     transition: all 0.2s ease-in-out;
+    -webkit-tap-highlight-color: transparent;
 }
 
 .signin-btn:hover{
